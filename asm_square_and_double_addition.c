@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-/* Mathematical functions that use Assembly */
+/* Mathematical functions written in Assembly */
 long square(long num)
 {
 	long result;
